@@ -2,8 +2,10 @@
 2020.2
 May 22 2024
 18:54:44
-/home/matthew/Projects/uart/src/uart_rx.sv,1736056717,systemVerilog,,/home/matthew/Projects/uart/tb/uart_rx_tb.sv,,uart_rx,,uvm,,,,,,
-/home/matthew/Projects/uart/src/uart_top.sv,1735972359,systemVerilog,,,,uart_top,,uvm,,,,,,
+/home/matthew/Projects/uart/src/uart_rx.sv,1736056717,systemVerilog,,/home/matthew/Projects/uart/src/uart_top.sv,,uart_rx,,uvm,,,,,,
+/home/matthew/Projects/uart/src/uart_top.sv,1736059234,systemVerilog,,/home/matthew/Projects/uart/src/uart_tx.sv,,uart_top,,uvm,,,,,,
+/home/matthew/Projects/uart/src/uart_tx.sv,1736055601,systemVerilog,,/home/matthew/Projects/uart/tb/uart_top_tb.sv,,uart_tx,,uvm,,,,,,
 /home/matthew/Projects/uart/tb/uart_rx_tb.sv,1736055863,systemVerilog,,,,uart_rx_tb,,uvm,,,,,,
+/home/matthew/Projects/uart/tb/uart_top_tb.sv,1736060014,systemVerilog,,,,uart_top_full_tb,,uvm,,,,,,
 /home/matthew/Projects/uart/tb/uart_tx_tb.sv,1735973076,systemVerilog,,,,uart_tx_tb,,uvm,,,,,,
 /home/matthew/Projects/uart/uart.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,uvm,,,,,,

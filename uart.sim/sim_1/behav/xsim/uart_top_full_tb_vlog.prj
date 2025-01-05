@@ -1,7 +1,9 @@
 # compile verilog/system verilog design source files
 sv xil_defaultlib  \
 "../../../../src/uart_rx.sv" \
-"../../../../tb/uart_rx_tb.sv" \
+"../../../../src/uart_top.sv" \
+"../../../../src/uart_tx.sv" \
+"../../../../tb/uart_top_tb.sv" \
 
 # compile glbl module
 verilog xil_defaultlib "glbl.v"

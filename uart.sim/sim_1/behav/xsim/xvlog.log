@@ -1,4 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/matthew/Projects/uart/src/uart_rx.sv" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module uart_rx
-INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/matthew/Projects/uart/tb/uart_rx_tb.sv" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module uart_rx_tb
